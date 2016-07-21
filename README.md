@@ -1,4 +1,4 @@
-# zhihu-php 知乎数据解析 by PHP
+﻿# zhihu-php 知乎数据解析 by PHP
 
 ## 介绍
 zhihu-php 使用PHP编写，用于获取知乎上的各种信息。看了由 Python2.7 编写的 [zhihu-python](https://github.com/egrcc/zhihu-python) 想着自己用 PHP 写一个，于是有了这个项目。
@@ -32,4 +32,6 @@ $about = $author->get_about();
 
 // 输出答主信息
 var_dump($about);
+
+test
 ```
